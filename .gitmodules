@@ -1,0 +1,3 @@
+[submodule "vendor/NexEngine"]
+	path = vendor/NexEngine
+	url = https://github.com/TribufuForks/NexEngine

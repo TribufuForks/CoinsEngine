@@ -1,13 +1,13 @@
 main: su.nightexpress.coinsengine.CoinsEngine
-version: '${project.version}'
+version: "${project.version}"
 name: CoinsEngine
 author: NightExpress
 desciption: Your best custom coins & currencies plugin.
-depend: [ NexEngine ]
+depend: [NexEngine]
 softdepend:
-  - Vault
-  - PlaceholderAPI
-  - PlayerPoints
-  - DeluxeCoinflip
+    - Vault
+    - PlaceholderAPI
+    - PlayerPoints
+    - DeluxeCoinflip
 load: STARTUP
-api-version: 1.17
+api-version: 1.16

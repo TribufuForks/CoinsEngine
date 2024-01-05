@@ -1,1 +1,1 @@
-# CoinsEngine-spigot
+# CoinsEngine
